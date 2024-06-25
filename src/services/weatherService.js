@@ -21,7 +21,8 @@ const show = async (city) => {
   // 💡 The .json() method converts the JSON formatted string from the response into a JavaScript object.
 };
 
-// show('New York');
+// show('New York'); for testing
 // in terminal type: node src/services/weatherService.js and this will return the weather information for New York to test
+
 
 export { show };
